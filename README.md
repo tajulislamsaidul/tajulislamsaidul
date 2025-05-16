@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tajul Islam Saidul</h1>
-<h3 align="center">💻 Final-Year Computer Science Engineering Student | 🔐 Cybersecurity Enthusiast | 🤖 ML Explorer</h3>
+<h3 align="center">💻 Final-Year Computer Science & Engineering Student | 🔐 Cybersecurity Enthusiast | 🤖 ML Explorer</h3>
 
 ---
 
