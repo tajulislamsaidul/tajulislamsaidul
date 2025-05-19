@@ -47,7 +47,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tajulislamsaidul&show_icons=true&theme=radical" alt="tajulislamsaidul's GitHub stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajulislamsaidul&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajulislamsaidul&layout=compact&langs_count=8&theme=radical" />
 </p>
 
 ---
