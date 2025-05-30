@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tajul Islam Saidul</h1>
 <h3 align="center">💻 Final-Year Computer Science & Engineering Student | 🔐 Cybersecurity Enthusiast | 🤖 ML Explorer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tajulislamsaidul&label=Profile%20views&color=0e75b6&style=flat" alt="moinul909" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tajulislamsaidul&label=Profile%20views&color=0e75b6&style=flat" alt="tajulislamsaidul" /> </p>
 
 ---
 
@@ -53,4 +53,4 @@
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tajulislamsaidul&bg_color=ffffff&color=2489e5&line=9e4c98&point=2489e5&area=true&hide_border=true)](https://github.com/tajulislamsaidul/github-readme-activity-graph)
+[![Tajul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tajulislamsaidul&bg_color=ffffff&color=2489e5&line=070707&point=2489e5&area=true&hide_border=true)](https://github.com/tajulislamsaidul/github-readme-activity-graph)
