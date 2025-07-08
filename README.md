@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tajul Islam Saidul</h1>
+<h1 align="center">Hi 👋, I'm Md Tajul Islam Saidul</h1>
 <h3 align="center">💻 Final-Year Computer Science & Engineering Student | 🔐 Cybersecurity Enthusiast | 🤖 ML Explorer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tajulislamsaidul&label=Profile%20views&color=0e75b6&style=flat" alt="tajulislamsaidul" /> </p>
 
