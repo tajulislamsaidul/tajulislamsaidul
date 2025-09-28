@@ -53,4 +53,4 @@
 
 ---
 
-[![Tajul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tajulislamsaidul&bg_color=ffffff&color=2489e5&line=070707&point=2489e5&area=true&hide_border=true)](https://github.com/tajulislamsaidul/github-readme-activity-graph)
+[![Tajul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tajulislamsaidul&bg_color=ffffff&color=2489e5&line=070707&point=2489e5&area=true&hide_border=true)](https://github.com/tajulislamsaidul/github-readme-activity-graph)
